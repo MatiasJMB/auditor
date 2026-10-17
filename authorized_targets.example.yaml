@@ -1,0 +1,6 @@
+targets:
+  - domain: example.com
+    allow_subdomains: true
+    max_depth: 2
+    max_pages: 100
+    notes: Cliente autorizado de ejemplo
